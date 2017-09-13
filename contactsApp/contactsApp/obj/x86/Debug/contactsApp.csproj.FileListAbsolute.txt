@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\GitHub\contactsapp\contactsApp\contactsApp\bin\Debug\contactsApp.exe
+C:\Users\pc\Documents\GitHub\contactsapp\contactsApp\contactsApp\bin\Debug\contactsApp.pdb
+C:\Users\pc\Documents\GitHub\contactsapp\contactsApp\contactsApp\obj\x86\Debug\contactsApp.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\GitHub\contactsapp\contactsApp\contactsApp\obj\x86\Debug\contactsApp.exe
+C:\Users\pc\Documents\GitHub\contactsapp\contactsApp\contactsApp\obj\x86\Debug\contactsApp.pdb
